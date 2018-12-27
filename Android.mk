@@ -183,7 +183,6 @@ LOCAL_MODULE_CLASS := APPS
 LOCAL_DEX_PREOPT := false
 LOCAL_MODULE_SUFFIX := .apk
 LOCAL_VENDOR_MODULE := true
->>>>>>> a5b386f... rimo02a: rearrange and update:Android.mk
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
